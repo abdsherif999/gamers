@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181276302303",
+    "project_id": "rabbe3-ddad8",
+    "storage_bucket": "rabbe3-ddad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181276302303:android:3e10d1dd8f88690f45026a",
+        "android_client_info": {
+          "package_name": "com.example.f_rabe3na"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMkCbtubpuuzioJGtWwQ6jHInlv7otfN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
